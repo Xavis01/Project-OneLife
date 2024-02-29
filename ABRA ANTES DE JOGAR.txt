@@ -1,0 +1,43 @@
+Requisitos para jogar "OneLife"
+
+
+- Windows 10
+
+- Ter extraído a pasta do jogo
+
+- Ter Python instalado
+
+- Ter bibliotecas instaladas no python:
+  1) arcade
+  2) pyglet
+  3) arcade.gui
+  4) arcade.sound
+
+=====================================================================================================
+
+- COMO INSTALAR PYTHON:
+
+1) Primeiro digite na barra de pesquisa do windows "python", se aparecer, você tem!
+
+2) Se não tiver nada, procure no google o processo e instalação do python.
+
+=====================================================================================================
+
+- COMO INSTALAR AS BIBLIOTECAS:
+
+1) Após ter a certeza que você possui python, entre no terminal do python (só funciona numa IDE)
+Ou abra o prompt de comando pesquisando no windows, ou pressione "windows" + "R" e digite "cmd".
+
+2) Após abrir o cmd ou terminal de python,  
+Digite "pip install NOME" (substitua "NOME" pelo nome da biblioteca).
+
+3) exemplo: "pip install arcade"
+
+4) Após ter instalado todas as bibliotecas, o jogo poderá ser iniciado!
+
+(o comando pode ser executado numa IDE ou no prompt de comando)
+
+=====================================================================================================
+
+Qualquer duvida sobre a instalação, me mande um email!
+- lucas.xavierbres@gmail.com
